@@ -10,7 +10,7 @@ This **iOS app** helps visually impaired individuals **identify currencies** in 
 - **Voice Feedback** 🗣️  
 - **Easy-to-Use Interface** 👌  
 - **Built with Core ML & Swift** �
-- 
+  
 ---
 
 ## 🛠 **Technologies Used**  
